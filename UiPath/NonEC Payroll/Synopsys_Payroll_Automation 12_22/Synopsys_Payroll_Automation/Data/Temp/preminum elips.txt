@@ -1,0 +1,45 @@
+Specificatie nota per werknemer Contractnummer
+Notanummer
+Polisnummer Verwerkings- Werknemer Soort boeking
+datum
+Te
+betalen
+Koopsom Beschik- Partner-
+bare premie pensioen
+Wezen- Anw-hiaat Vrijstel-
+pensioen pensioen ling be-
+schikbare
+premie bij
+arbeids-
+onge-
+schiktheid
+Arbeids-
+onge-
+schikt-
+heids-
+pensioen
+Admini-
+stratie-
+kosten
+Q7230 • '>' 7
+e.
+03-2021
+= =
+<D C2
+Provisie- 0. =2:
+kosten ti) 0
+..-2. =
+C2 C2
+= g
+CL
+<D
+=
+86465312 04-02-2021 J. Boonstra Salarismutatie 136,94 131,48 5,18 0,28
+86465312 01-03-2021 J. Boonstra Prolongatie 493,77 468,93 18,52 6,32
+86466758 04-02-2021 E.P. Huijbregts Salarismutatie 19,20 18,92 0,28
+86466758 01-03-2021 E.P. Huijbregts Prolongatie 175,38 169,06 6,32
+86466761 04-02-2021 F.G.C. Vermeire Salarismutatie -5,86 -6,14 0,28
+86466761 01-03-2021 F.G.C. Vermeire Prolongatie 20,60 14,28 6,32
+Subtotaal 840,03 600,41 196,12 23,70 19,80
+Totaal te betalen 840,03
+Pagina 1van 1
