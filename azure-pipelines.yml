@@ -1,0 +1,11 @@
+# Starter pipeline
+- task: UiPathTest@3
+  inputs:
+    testTarget: 'TestProject'
+    orchestratorConnection: 'OrcgestratorConnection'
+    folderName: 'Default'
+    testReportDestination: 'Output'
+    attachRobotLogs: true
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
